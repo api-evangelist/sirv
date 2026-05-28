@@ -1,0 +1,32 @@
+aid: sirv
+name: Sirv
+description: "Image management solutions like optimization, manipulation, hosting"
+url: https://apidocs.sirv.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Photography"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Photography
+  - Public APIs
+apis:
+  - name: Sirv
+    description: "Image management solutions like optimization, manipulation, hosting"
+    humanURL: https://apidocs.sirv.com/
+    baseURL: https://apidocs.sirv.com/
+    tags:
+      - Photography
+    properties:
+      - type: Documentation
+        url: https://apidocs.sirv.com/
+common:
+  - type: Website
+    url: https://apidocs.sirv.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
