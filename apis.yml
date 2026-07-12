@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://apidocs.sirv.com/
 common:
+  - type: DomainSecurity
+    url: security/sirv-domain-security.yml
   - type: Website
     url: https://apidocs.sirv.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://sirv.com/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
