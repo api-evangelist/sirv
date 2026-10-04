@@ -39,7 +39,6 @@ apis:
   - name: Sirv
     description: "Image management solutions like optimization, manipulation, hosting"
     humanURL: https://apidocs.sirv.com/
-    baseURL: https://apidocs.sirv.com/
     tags:
       - Photography
     properties:
